@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on many minecraft-related projects.
 - 🌱 I’m currently learning about business & marketing.
 - 💬 Ask me about NMS, Software Architecture, Spigot.
-- 📫 How to reach me: https://github.com/d0by1#contact-me
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I enjoy working much more than partying or playing games. 
 
