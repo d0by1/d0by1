@@ -2,7 +2,7 @@
 
 <h2 align="center">About Me 🧑</h2>
 
-- 🔭 I’m currently working on many minecraft-related projects.
+- 🔭 I’m currently working on [DecentSoftware](https://github.com/decentsoftware-eu) and many more minecraft-related projects.
 - 🌱 I’m currently learning about business & marketing.
 - 💬 Ask me about NMS, Software Architecture, Spigot.
 - 😄 Pronouns: He, Him
