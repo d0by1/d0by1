@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm d0by!</h2>
 
-<h2 align="center">About me 🧑</h2>
+<h2 align="center">About Me 🧑</h2>
 
 - 🔭 I’m currently working on many minecraft-related projects.
 - 🌱 I’m currently learning about business & marketing.
@@ -8,7 +8,7 @@
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: I enjoy working much more than partying or playing games. 
 
-<h2 align="center">Contact me 🤝</h2>
+<h2 align="center">Contact Me 🤝</h2>
 
 <p align="center">
   <a href="https://discordapp.com/users/694200539751251998">
@@ -19,13 +19,13 @@
   </a>
 </p>
 
-<h2 align="center">Github stats 📊</h2>
+<h2 align="center">GitHub Stats 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=d0by1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </div>
 
-<h2 align="center">My projects ✨</h2>
+<h2 align="center">My Projects ✨</h2>
 
 I've mostly been working on private projects or minecraft networks for the last few years. Anyhow, here is the list of a few public projects I'm behind.  
 
