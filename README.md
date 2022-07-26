@@ -1,4 +1,8 @@
-<h1 align="center">Hello 👋, I'm d0by!</h2>
+ ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
+ 
+<h1 align="center">Hello there, I'm d0by 👋</h2>
+
+<p align="center">I'm a self-taught software developer, perfectionist and possibly sociopath.</p>
 
 <h2 align="center">About Me 🧑</h2>
 
