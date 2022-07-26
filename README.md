@@ -29,8 +29,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=d0by1&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
 </div>
 
-<h2 align="center">My Projects ✨</h2>
+<h2 align="center">👇🏻 List of some open-source projects I'm working on 👇🏻</h2>
 
+<!--
 I've mostly been working on private projects or minecraft networks for the last few years. Anyhow, here is the list of a few public projects I'm behind.  
 
 <div align="center">
@@ -46,3 +47,4 @@ I've mostly been working on private projects or minecraft networks for the last 
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=decentsoftware-eu&repo=decentmenus&theme=tokyonight&hide_border=true" />
   </a>
 </div>
+-->
