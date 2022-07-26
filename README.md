@@ -27,7 +27,7 @@
 
 <h2 align="center">My projects ✨</h2>
 
-I've mostly been working on private projects or minecraft networks for the past few years. Anyhow, here is the list of a few public projects I'm behind.  
+I've mostly been working on private projects or minecraft networks for the last few years. Anyhow, here is the list of a few public projects I'm behind.  
 
 <div align="center">
   <a href="https://github.com/decentsoftware-eu/decentholograms">
