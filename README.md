@@ -9,7 +9,6 @@
 - 🔭 I’m currently working on [DecentSoftware](https://github.com/decentsoftware-eu) and many more minecraft-related projects.
 - 🌱 I’m currently learning about business & marketing.
 - 💬 Ask me about NMS, Software Architecture, Spigot.
-- 😄 Pronouns: He, Him
 - ⚡ Fun fact: I enjoy working much more than partying or playing games. 
 
 <h2 align="center">Contact Me 🤝</h2>
