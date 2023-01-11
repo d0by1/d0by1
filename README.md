@@ -2,11 +2,11 @@
  
 <h1 align="center">Hello there, I'm d0by 👋</h2>
 
-<p align="center">I'm a self-taught software developer, perfectionist and possibly sociopath.</p>
+<p align="center">I'm a self-taught software developer, perfectionist and sociopath.</p>
 
 <h2 align="center">About Me 🧑</h2>
 
-- 🔭 I’m currently working on [DecentSoftware](https://github.com/decentsoftware-eu) and many more minecraft-related projects.
+- 🔭 I’m currently working on [DecentSoftware](https://github.com/decentsoftware-eu) and many other, mostly minecraft-related, projects.
 - 🌱 I’m currently learning about business & marketing.
 - 💬 Ask me about NMS, Software Architecture, Spigot.
 - ⚡ Fun fact: I enjoy working much more than partying or playing games. 
@@ -16,9 +16,6 @@
 <p align="center">
   <a href="https://discordapp.com/users/694200539751251998">
     <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
-  </a>
-  <a href="https://twitter.com/d0by1">
-    <img alt="Twitter" width="40px" src="https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png" />
   </a>
 </p>
 
