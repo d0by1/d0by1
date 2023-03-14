@@ -1,5 +1,3 @@
- ![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)
- 
 <h1 align="center">Hello there, I'm d0by 👋</h2>
 
 <p align="center">I'm a self-taught software developer, perfectionist and sociopath.</p>
@@ -7,8 +5,7 @@
 <h2 align="center">About Me 🧑</h2>
 
 - 🔭 I’m currently working on [DecentSoftware](https://github.com/decentsoftware-eu) and many other, mostly minecraft-related, projects.
-- 🌱 I’m currently learning about business & marketing.
-- 💬 Ask me about NMS, Software Architecture, Spigot.
+- 💬 Ask me about Minecraft plugin development, NMS.
 - ⚡ Fun fact: I enjoy working much more than partying or playing games. 
 
 <h2 align="center">Contact Me 🤝</h2>
@@ -17,6 +14,13 @@
   <a href="https://discordapp.com/users/694200539751251998">
     <img alt="Discord" width="40px" src="https://cdn3.iconfinder.com/data/icons/social-network-flat-3/100/Discord-256.png" />
   </a>
+</p>
+
+<h2 align="center">Support Me ❤️</h2>
+<p align="center">
+ <a align="center" href="https://ko-fi.com/d0by1"> 
+  <img src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="d0by1" />
+ </a>
 </p>
 
 <h2 align="center">GitHub Stats 📊</h2>
