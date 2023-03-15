@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm d0by 👋</h2>
 
 <p align="center">
-Hi there! I'm a self-taught Java developer with over 5 years of experience in creating Minecraft plugins. I'm known for my attention to detail and commitment to delivering high-quality code. I take pride in my work and am always looking for ways to improve my skills and stay up-to-date with the latest technologies. So, if you're looking for a dedicated Java developer, look no further!
+I'm a self-taught Java developer with over 5 years of experience in creating Minecraft plugins. I'm known for my attention to detail and commitment to delivering high-quality code. I take pride in my work and am always looking for ways to improve my skills and stay up-to-date with the latest technologies. So, if you're looking for a dedicated Java developer, look no further!
 </p>
 
 <h2 align="center">About Me 🧑</h2>
